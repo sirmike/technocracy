@@ -6,8 +6,10 @@
 
 # script it, use standard tools
 
-* ctags
-* ack / ag / grep
+* Ctags - https://en.wikipedia.org/wiki/Ctags
+* ack - http://beyondgrep.com
+* ag - http://betterthanack.com
+* grep - https://www.gnu.org/software/grep
 
 # finding files
 
